@@ -1,0 +1,10 @@
+#want to populate the board with "players"
+#player vals: (position, frequency, 2D rotation, duration of rotation)
+#players "walk" on the board and thisState evolves to nextState
+
+
+game name ideas
+z0p
+compl0
+zortex
+zero-player 2D algorithmic composition
